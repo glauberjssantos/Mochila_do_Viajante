@@ -1,0 +1,4 @@
+Endereço Físico: 50-3E-AA-70-AF-2E
+IP Privado: 192.168.1.2
+IP Público: 189.28.147.202
+
